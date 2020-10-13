@@ -2,7 +2,7 @@
 <h1>Tools, paths and materials</h1>
 
 
-#HTTP
+<h2>HTTP</h2>
 
 POSTMAN = req, res HTTP
 
@@ -13,7 +13,7 @@ REST Client = req, res extension for vs code
 
 
 
-#DB
+<h2>DB</h2>
 
 BEEKEEPER = view and preview of databaes
  
